@@ -1,0 +1,786 @@
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\appsettings.Development.json
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\appsettings.json
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\QRVCard.staticwebassets.runtime.json
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\QRVCard.exe
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\QRVCard.deps.json
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\QRVCard.runtimeconfig.json
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\QRVCard.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\QRVCard.pdb
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\Microsoft.Win32.SystemEvents.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\QRCoder.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\System.Drawing.Common.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\zxing.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\Microsoft.CSharp.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\Microsoft.VisualBasic.Core.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\Microsoft.VisualBasic.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\Microsoft.Win32.Primitives.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\Microsoft.Win32.Registry.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\System.AppContext.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\System.Buffers.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\System.Collections.Concurrent.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\System.Collections.Immutable.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\System.Collections.NonGeneric.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\System.Collections.Specialized.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\System.Collections.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\System.ComponentModel.Annotations.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\System.ComponentModel.DataAnnotations.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\System.ComponentModel.EventBasedAsync.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\System.ComponentModel.Primitives.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\System.ComponentModel.TypeConverter.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\System.ComponentModel.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\System.Configuration.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\System.Console.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\System.Core.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\System.Data.Common.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\System.Data.DataSetExtensions.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\System.Data.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\System.Diagnostics.Contracts.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\System.Diagnostics.Debug.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\System.Diagnostics.DiagnosticSource.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\System.Diagnostics.FileVersionInfo.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\System.Diagnostics.Process.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\System.Diagnostics.StackTrace.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\System.Diagnostics.TextWriterTraceListener.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\System.Diagnostics.Tools.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\System.Diagnostics.TraceSource.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\System.Diagnostics.Tracing.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\System.Drawing.Primitives.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\System.Drawing.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\System.Dynamic.Runtime.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\System.Formats.Asn1.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\System.Globalization.Calendars.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\System.Globalization.Extensions.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\System.Globalization.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\System.IO.Compression.Brotli.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\System.IO.Compression.FileSystem.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\System.IO.Compression.ZipFile.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\System.IO.Compression.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\System.IO.FileSystem.AccessControl.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\System.IO.FileSystem.DriveInfo.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\System.IO.FileSystem.Primitives.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\System.IO.FileSystem.Watcher.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\System.IO.FileSystem.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\System.IO.IsolatedStorage.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\System.IO.MemoryMappedFiles.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\System.IO.Pipes.AccessControl.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\System.IO.Pipes.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\System.IO.UnmanagedMemoryStream.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\System.IO.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\System.Linq.Expressions.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\System.Linq.Parallel.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\System.Linq.Queryable.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\System.Linq.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\System.Memory.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\System.Net.Http.Json.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\System.Net.Http.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\System.Net.HttpListener.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\System.Net.Mail.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\System.Net.NameResolution.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\System.Net.NetworkInformation.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\System.Net.Ping.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\System.Net.Primitives.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\System.Net.Quic.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\System.Net.Requests.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\System.Net.Security.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\System.Net.ServicePoint.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\System.Net.Sockets.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\System.Net.WebClient.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\System.Net.WebHeaderCollection.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\System.Net.WebProxy.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\System.Net.WebSockets.Client.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\System.Net.WebSockets.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\System.Net.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\System.Numerics.Vectors.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\System.Numerics.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\System.ObjectModel.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\System.Private.CoreLib.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\System.Private.DataContractSerialization.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\System.Private.Uri.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\System.Private.Xml.Linq.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\System.Private.Xml.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\System.Reflection.DispatchProxy.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\System.Reflection.Emit.ILGeneration.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\System.Reflection.Emit.Lightweight.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\System.Reflection.Emit.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\System.Reflection.Extensions.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\System.Reflection.Metadata.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\System.Reflection.Primitives.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\System.Reflection.TypeExtensions.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\System.Reflection.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\System.Resources.Reader.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\System.Resources.ResourceManager.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\System.Resources.Writer.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\System.Runtime.CompilerServices.Unsafe.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\System.Runtime.CompilerServices.VisualC.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\System.Runtime.Extensions.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\System.Runtime.Handles.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\System.Runtime.InteropServices.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\System.Runtime.Intrinsics.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\System.Runtime.Loader.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\System.Runtime.Numerics.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\System.Runtime.Serialization.Formatters.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\System.Runtime.Serialization.Json.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\System.Runtime.Serialization.Primitives.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\System.Runtime.Serialization.Xml.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\System.Runtime.Serialization.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\System.Runtime.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\System.Security.AccessControl.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\System.Security.Claims.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\System.Security.Cryptography.Algorithms.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\System.Security.Cryptography.Cng.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\System.Security.Cryptography.Csp.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\System.Security.Cryptography.Encoding.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\System.Security.Cryptography.OpenSsl.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\System.Security.Cryptography.Primitives.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\System.Security.Cryptography.X509Certificates.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\System.Security.Principal.Windows.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\System.Security.Principal.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\System.Security.SecureString.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\System.Security.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\System.ServiceModel.Web.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\System.ServiceProcess.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\System.Text.Encoding.CodePages.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\System.Text.Encoding.Extensions.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\System.Text.Encoding.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\System.Text.Encodings.Web.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\System.Text.Json.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\System.Text.RegularExpressions.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\System.Threading.Channels.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\System.Threading.Overlapped.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\System.Threading.Tasks.Dataflow.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\System.Threading.Tasks.Extensions.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\System.Threading.Tasks.Parallel.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\System.Threading.Tasks.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\System.Threading.Thread.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\System.Threading.ThreadPool.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\System.Threading.Timer.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\System.Threading.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\System.Transactions.Local.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\System.Transactions.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\System.ValueTuple.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\System.Web.HttpUtility.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\System.Web.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\System.Windows.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\System.Xml.Linq.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\System.Xml.ReaderWriter.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\System.Xml.Serialization.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\System.Xml.XDocument.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\System.Xml.XPath.XDocument.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\System.Xml.XPath.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\System.Xml.XmlDocument.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\System.Xml.XmlSerializer.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\System.Xml.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\System.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\WindowsBase.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\mscorlib.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\netstandard.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Antiforgery.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Authentication.Cookies.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Authentication.Core.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Authentication.OAuth.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Authentication.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Authorization.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Components.Authorization.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Components.Forms.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Components.Server.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Components.Web.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Components.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.CookiePolicy.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Cors.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.DataProtection.Extensions.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.DataProtection.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Diagnostics.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.HostFiltering.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Hosting.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Html.Abstractions.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Http.Connections.Common.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Http.Connections.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Http.Extensions.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Http.Features.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Http.Results.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Http.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.HttpLogging.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.HttpOverrides.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.HttpsPolicy.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Identity.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Localization.Routing.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Localization.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Metadata.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Mvc.Core.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Mvc.Cors.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Mvc.Localization.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Mvc.Razor.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Mvc.RazorPages.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Mvc.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Razor.Runtime.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Razor.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.ResponseCaching.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.ResponseCompression.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Rewrite.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Routing.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Server.HttpSys.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Server.IIS.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Server.IISIntegration.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Server.Kestrel.Transport.Quic.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Server.Kestrel.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Session.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.SignalR.Common.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.SignalR.Core.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.SignalR.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.StaticFiles.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.WebSockets.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.WebUtilities.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\Microsoft.Extensions.Caching.Abstractions.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\Microsoft.Extensions.Caching.Memory.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\Microsoft.Extensions.Configuration.Binder.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\Microsoft.Extensions.Configuration.Ini.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\Microsoft.Extensions.Configuration.Json.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\Microsoft.Extensions.Configuration.KeyPerFile.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\Microsoft.Extensions.Configuration.Xml.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\Microsoft.Extensions.Configuration.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\Microsoft.Extensions.DependencyInjection.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\Microsoft.Extensions.Features.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\Microsoft.Extensions.FileProviders.Composite.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\Microsoft.Extensions.FileProviders.Physical.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\Microsoft.Extensions.Hosting.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\Microsoft.Extensions.Http.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\Microsoft.Extensions.Identity.Core.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\Microsoft.Extensions.Identity.Stores.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\Microsoft.Extensions.Localization.Abstractions.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\Microsoft.Extensions.Localization.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\Microsoft.Extensions.Logging.Abstractions.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\Microsoft.Extensions.Logging.Configuration.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\Microsoft.Extensions.Logging.Console.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\Microsoft.Extensions.Logging.Debug.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\Microsoft.Extensions.Logging.EventLog.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\Microsoft.Extensions.Logging.EventSource.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\Microsoft.Extensions.Logging.TraceSource.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\Microsoft.Extensions.Logging.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\Microsoft.Extensions.ObjectPool.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\Microsoft.Extensions.Options.DataAnnotations.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\Microsoft.Extensions.Options.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\Microsoft.Extensions.Primitives.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\Microsoft.Extensions.WebEncoders.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\Microsoft.JSInterop.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\Microsoft.Net.Http.Headers.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\System.Diagnostics.EventLog.Messages.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\System.Diagnostics.EventLog.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\System.IO.Pipelines.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\System.Security.Cryptography.Pkcs.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\System.Security.Cryptography.Xml.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\API-MS-Win-core-xstate-l2-1-0.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\Microsoft.DiaSymReader.Native.x86.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\System.IO.Compression.Native.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\api-ms-win-core-console-l1-1-0.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\api-ms-win-core-console-l1-2-0.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\api-ms-win-core-datetime-l1-1-0.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\api-ms-win-core-debug-l1-1-0.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\api-ms-win-core-errorhandling-l1-1-0.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\api-ms-win-core-fibers-l1-1-0.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\api-ms-win-core-file-l1-1-0.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\api-ms-win-core-file-l1-2-0.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\api-ms-win-core-file-l2-1-0.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\api-ms-win-core-handle-l1-1-0.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\api-ms-win-core-heap-l1-1-0.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\api-ms-win-core-interlocked-l1-1-0.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\api-ms-win-core-libraryloader-l1-1-0.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\api-ms-win-core-localization-l1-2-0.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\api-ms-win-core-memory-l1-1-0.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\api-ms-win-core-namedpipe-l1-1-0.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\api-ms-win-core-processenvironment-l1-1-0.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\api-ms-win-core-processthreads-l1-1-0.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\api-ms-win-core-processthreads-l1-1-1.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\api-ms-win-core-profile-l1-1-0.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\api-ms-win-core-rtlsupport-l1-1-0.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\api-ms-win-core-string-l1-1-0.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\api-ms-win-core-synch-l1-1-0.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\api-ms-win-core-synch-l1-2-0.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\api-ms-win-core-sysinfo-l1-1-0.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\api-ms-win-core-timezone-l1-1-0.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\api-ms-win-core-util-l1-1-0.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\api-ms-win-crt-conio-l1-1-0.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\api-ms-win-crt-convert-l1-1-0.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\api-ms-win-crt-environment-l1-1-0.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\api-ms-win-crt-filesystem-l1-1-0.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\api-ms-win-crt-heap-l1-1-0.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\api-ms-win-crt-locale-l1-1-0.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\api-ms-win-crt-math-l1-1-0.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\api-ms-win-crt-multibyte-l1-1-0.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\api-ms-win-crt-private-l1-1-0.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\api-ms-win-crt-process-l1-1-0.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\api-ms-win-crt-runtime-l1-1-0.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\api-ms-win-crt-stdio-l1-1-0.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\api-ms-win-crt-string-l1-1-0.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\api-ms-win-crt-time-l1-1-0.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\api-ms-win-crt-utility-l1-1-0.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\clretwrc.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\clrjit.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\coreclr.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\createdump.exe
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\dbgshim.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\hostfxr.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\hostpolicy.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\mscordaccore.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\mscordaccore_x86_x86_6.0.1623.17311.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\mscordbi.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\mscorrc.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\msquic.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\ucrtbase.dll
+D:\QRVCard\QRVCard\bin\Release\net6.0\win-x86\aspnetcorev2_inprocess.dll
+D:\QRVCard\QRVCard\obj\Release\net6.0\win-x86\QRVCard.csproj.AssemblyReference.cache
+D:\QRVCard\QRVCard\obj\Release\net6.0\win-x86\QRVCard.GeneratedMSBuildEditorConfig.editorconfig
+D:\QRVCard\QRVCard\obj\Release\net6.0\win-x86\QRVCard.AssemblyInfoInputs.cache
+D:\QRVCard\QRVCard\obj\Release\net6.0\win-x86\QRVCard.AssemblyInfo.cs
+D:\QRVCard\QRVCard\obj\Release\net6.0\win-x86\QRVCard.csproj.CoreCompileInputs.cache
+D:\QRVCard\QRVCard\obj\Release\net6.0\win-x86\QRVCard.MvcApplicationPartsAssemblyInfo.cache
+D:\QRVCard\QRVCard\obj\Release\net6.0\win-x86\QRVCard.RazorAssemblyInfo.cache
+D:\QRVCard\QRVCard\obj\Release\net6.0\win-x86\QRVCard.RazorAssemblyInfo.cs
+D:\QRVCard\QRVCard\obj\Release\net6.0\win-x86\staticwebassets\msbuild.QRVCard.Microsoft.AspNetCore.StaticWebAssets.props
+D:\QRVCard\QRVCard\obj\Release\net6.0\win-x86\staticwebassets\msbuild.build.QRVCard.props
+D:\QRVCard\QRVCard\obj\Release\net6.0\win-x86\staticwebassets\msbuild.buildMultiTargeting.QRVCard.props
+D:\QRVCard\QRVCard\obj\Release\net6.0\win-x86\staticwebassets\msbuild.buildTransitive.QRVCard.props
+D:\QRVCard\QRVCard\obj\Release\net6.0\win-x86\staticwebassets.pack.json
+D:\QRVCard\QRVCard\obj\Release\net6.0\win-x86\staticwebassets.build.json
+D:\QRVCard\QRVCard\obj\Release\net6.0\win-x86\staticwebassets.development.json
+D:\QRVCard\QRVCard\obj\Release\net6.0\win-x86\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\QRVCard\QRVCard\obj\Release\net6.0\win-x86\scopedcss\bundle\QRVCard.styles.css
+D:\QRVCard\QRVCard\obj\Release\net6.0\win-x86\scopedcss\projectbundle\QRVCard.bundle.scp.css
+D:\QRVCard\QRVCard\obj\Release\net6.0\win-x86\QRVCard.csproj.CopyComplete
+D:\QRVCard\QRVCard\obj\Release\net6.0\win-x86\QRVCard.dll
+D:\QRVCard\QRVCard\obj\Release\net6.0\win-x86\refint\QRVCard.dll
+D:\QRVCard\QRVCard\obj\Release\net6.0\win-x86\QRVCard.pdb
+D:\QRVCard\QRVCard\obj\Release\net6.0\win-x86\QRVCard.genruntimeconfig.cache
+D:\QRVCard\QRVCard\obj\Release\net6.0\win-x86\ref\QRVCard.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\appsettings.Development.json
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\appsettings.json
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\QRVCard.staticwebassets.runtime.json
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\QRVCard.exe
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\QRVCard.deps.json
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\QRVCard.runtimeconfig.json
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\QRVCard.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\QRVCard.pdb
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\EPPlus.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\EPPlus.Interfaces.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\EPPlus.System.Drawing.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\Microsoft.IO.RecyclableMemoryStream.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\Microsoft.Win32.SystemEvents.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\QRCoder.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\System.Drawing.Common.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\System.Security.Cryptography.Pkcs.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\zxing.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\Microsoft.CSharp.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\Microsoft.VisualBasic.Core.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\Microsoft.VisualBasic.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\Microsoft.Win32.Primitives.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\Microsoft.Win32.Registry.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\System.AppContext.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\System.Buffers.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\System.Collections.Concurrent.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\System.Collections.Immutable.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\System.Collections.NonGeneric.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\System.Collections.Specialized.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\System.Collections.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\System.ComponentModel.Annotations.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\System.ComponentModel.DataAnnotations.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\System.ComponentModel.EventBasedAsync.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\System.ComponentModel.Primitives.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\System.ComponentModel.TypeConverter.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\System.ComponentModel.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\System.Configuration.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\System.Console.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\System.Core.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\System.Data.Common.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\System.Data.DataSetExtensions.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\System.Data.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\System.Diagnostics.Contracts.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\System.Diagnostics.Debug.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\System.Diagnostics.DiagnosticSource.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\System.Diagnostics.FileVersionInfo.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\System.Diagnostics.Process.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\System.Diagnostics.StackTrace.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\System.Diagnostics.TextWriterTraceListener.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\System.Diagnostics.Tools.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\System.Diagnostics.TraceSource.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\System.Diagnostics.Tracing.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\System.Drawing.Primitives.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\System.Drawing.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\System.Dynamic.Runtime.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\System.Formats.Asn1.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\System.Globalization.Calendars.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\System.Globalization.Extensions.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\System.Globalization.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\System.IO.Compression.Brotli.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\System.IO.Compression.FileSystem.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\System.IO.Compression.ZipFile.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\System.IO.Compression.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\System.IO.FileSystem.AccessControl.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\System.IO.FileSystem.DriveInfo.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\System.IO.FileSystem.Primitives.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\System.IO.FileSystem.Watcher.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\System.IO.FileSystem.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\System.IO.IsolatedStorage.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\System.IO.MemoryMappedFiles.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\System.IO.Pipes.AccessControl.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\System.IO.Pipes.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\System.IO.UnmanagedMemoryStream.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\System.IO.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\System.Linq.Expressions.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\System.Linq.Parallel.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\System.Linq.Queryable.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\System.Linq.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\System.Memory.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\System.Net.Http.Json.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\System.Net.Http.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\System.Net.HttpListener.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\System.Net.Mail.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\System.Net.NameResolution.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\System.Net.NetworkInformation.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\System.Net.Ping.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\System.Net.Primitives.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\System.Net.Quic.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\System.Net.Requests.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\System.Net.Security.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\System.Net.ServicePoint.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\System.Net.Sockets.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\System.Net.WebClient.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\System.Net.WebHeaderCollection.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\System.Net.WebProxy.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\System.Net.WebSockets.Client.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\System.Net.WebSockets.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\System.Net.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\System.Numerics.Vectors.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\System.Numerics.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\System.ObjectModel.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\System.Private.CoreLib.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\System.Private.DataContractSerialization.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\System.Private.Uri.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\System.Private.Xml.Linq.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\System.Private.Xml.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\System.Reflection.DispatchProxy.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\System.Reflection.Emit.ILGeneration.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\System.Reflection.Emit.Lightweight.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\System.Reflection.Emit.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\System.Reflection.Extensions.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\System.Reflection.Metadata.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\System.Reflection.Primitives.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\System.Reflection.TypeExtensions.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\System.Reflection.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\System.Resources.Reader.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\System.Resources.ResourceManager.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\System.Resources.Writer.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\System.Runtime.CompilerServices.Unsafe.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\System.Runtime.CompilerServices.VisualC.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\System.Runtime.Extensions.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\System.Runtime.Handles.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\System.Runtime.InteropServices.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\System.Runtime.Intrinsics.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\System.Runtime.Loader.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\System.Runtime.Numerics.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\System.Runtime.Serialization.Formatters.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\System.Runtime.Serialization.Json.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\System.Runtime.Serialization.Primitives.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\System.Runtime.Serialization.Xml.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\System.Runtime.Serialization.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\System.Runtime.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\System.Security.AccessControl.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\System.Security.Claims.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\System.Security.Cryptography.Algorithms.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\System.Security.Cryptography.Cng.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\System.Security.Cryptography.Csp.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\System.Security.Cryptography.Encoding.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\System.Security.Cryptography.OpenSsl.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\System.Security.Cryptography.Primitives.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\System.Security.Cryptography.X509Certificates.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\System.Security.Principal.Windows.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\System.Security.Principal.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\System.Security.SecureString.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\System.Security.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\System.ServiceModel.Web.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\System.ServiceProcess.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\System.Text.Encoding.CodePages.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\System.Text.Encoding.Extensions.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\System.Text.Encoding.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\System.Text.Encodings.Web.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\System.Text.Json.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\System.Text.RegularExpressions.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\System.Threading.Channels.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\System.Threading.Overlapped.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\System.Threading.Tasks.Dataflow.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\System.Threading.Tasks.Extensions.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\System.Threading.Tasks.Parallel.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\System.Threading.Tasks.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\System.Threading.Thread.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\System.Threading.ThreadPool.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\System.Threading.Timer.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\System.Threading.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\System.Transactions.Local.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\System.Transactions.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\System.ValueTuple.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\System.Web.HttpUtility.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\System.Web.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\System.Windows.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\System.Xml.Linq.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\System.Xml.ReaderWriter.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\System.Xml.Serialization.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\System.Xml.XDocument.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\System.Xml.XPath.XDocument.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\System.Xml.XPath.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\System.Xml.XmlDocument.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\System.Xml.XmlSerializer.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\System.Xml.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\System.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\WindowsBase.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\mscorlib.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\netstandard.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Antiforgery.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Authentication.Cookies.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Authentication.Core.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Authentication.OAuth.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Authentication.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Authorization.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Components.Authorization.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Components.Forms.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Components.Server.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Components.Web.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Components.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.CookiePolicy.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Cors.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.DataProtection.Extensions.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.DataProtection.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Diagnostics.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.HostFiltering.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Hosting.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Html.Abstractions.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Http.Connections.Common.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Http.Connections.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Http.Extensions.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Http.Features.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Http.Results.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Http.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.HttpLogging.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.HttpOverrides.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.HttpsPolicy.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Identity.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Localization.Routing.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Localization.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Metadata.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Mvc.Core.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Mvc.Cors.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Mvc.Localization.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Mvc.Razor.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Mvc.RazorPages.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Mvc.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Razor.Runtime.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Razor.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.ResponseCaching.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.ResponseCompression.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Rewrite.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Routing.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Server.HttpSys.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Server.IIS.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Server.IISIntegration.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Server.Kestrel.Transport.Quic.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Server.Kestrel.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Session.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.SignalR.Common.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.SignalR.Core.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.SignalR.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.StaticFiles.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.WebSockets.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.WebUtilities.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\Microsoft.Extensions.Caching.Abstractions.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\Microsoft.Extensions.Caching.Memory.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\Microsoft.Extensions.Configuration.Binder.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\Microsoft.Extensions.Configuration.Ini.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\Microsoft.Extensions.Configuration.Json.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\Microsoft.Extensions.Configuration.KeyPerFile.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\Microsoft.Extensions.Configuration.Xml.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\Microsoft.Extensions.Configuration.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\Microsoft.Extensions.DependencyInjection.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\Microsoft.Extensions.Features.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\Microsoft.Extensions.FileProviders.Composite.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\Microsoft.Extensions.FileProviders.Physical.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\Microsoft.Extensions.Hosting.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\Microsoft.Extensions.Http.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\Microsoft.Extensions.Identity.Core.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\Microsoft.Extensions.Identity.Stores.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\Microsoft.Extensions.Localization.Abstractions.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\Microsoft.Extensions.Localization.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\Microsoft.Extensions.Logging.Abstractions.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\Microsoft.Extensions.Logging.Configuration.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\Microsoft.Extensions.Logging.Console.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\Microsoft.Extensions.Logging.Debug.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\Microsoft.Extensions.Logging.EventLog.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\Microsoft.Extensions.Logging.EventSource.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\Microsoft.Extensions.Logging.TraceSource.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\Microsoft.Extensions.Logging.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\Microsoft.Extensions.ObjectPool.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\Microsoft.Extensions.Options.DataAnnotations.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\Microsoft.Extensions.Options.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\Microsoft.Extensions.Primitives.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\Microsoft.Extensions.WebEncoders.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\Microsoft.JSInterop.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\Microsoft.Net.Http.Headers.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\System.Diagnostics.EventLog.Messages.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\System.Diagnostics.EventLog.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\System.IO.Pipelines.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\System.Security.Cryptography.Xml.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\API-MS-Win-core-xstate-l2-1-0.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\Microsoft.DiaSymReader.Native.x86.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\System.IO.Compression.Native.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\api-ms-win-core-console-l1-1-0.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\api-ms-win-core-console-l1-2-0.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\api-ms-win-core-datetime-l1-1-0.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\api-ms-win-core-debug-l1-1-0.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\api-ms-win-core-errorhandling-l1-1-0.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\api-ms-win-core-fibers-l1-1-0.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\api-ms-win-core-file-l1-1-0.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\api-ms-win-core-file-l1-2-0.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\api-ms-win-core-file-l2-1-0.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\api-ms-win-core-handle-l1-1-0.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\api-ms-win-core-heap-l1-1-0.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\api-ms-win-core-interlocked-l1-1-0.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\api-ms-win-core-libraryloader-l1-1-0.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\api-ms-win-core-localization-l1-2-0.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\api-ms-win-core-memory-l1-1-0.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\api-ms-win-core-namedpipe-l1-1-0.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\api-ms-win-core-processenvironment-l1-1-0.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\api-ms-win-core-processthreads-l1-1-0.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\api-ms-win-core-processthreads-l1-1-1.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\api-ms-win-core-profile-l1-1-0.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\api-ms-win-core-rtlsupport-l1-1-0.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\api-ms-win-core-string-l1-1-0.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\api-ms-win-core-synch-l1-1-0.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\api-ms-win-core-synch-l1-2-0.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\api-ms-win-core-sysinfo-l1-1-0.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\api-ms-win-core-timezone-l1-1-0.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\api-ms-win-core-util-l1-1-0.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\api-ms-win-crt-conio-l1-1-0.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\api-ms-win-crt-convert-l1-1-0.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\api-ms-win-crt-environment-l1-1-0.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\api-ms-win-crt-filesystem-l1-1-0.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\api-ms-win-crt-heap-l1-1-0.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\api-ms-win-crt-locale-l1-1-0.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\api-ms-win-crt-math-l1-1-0.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\api-ms-win-crt-multibyte-l1-1-0.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\api-ms-win-crt-private-l1-1-0.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\api-ms-win-crt-process-l1-1-0.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\api-ms-win-crt-runtime-l1-1-0.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\api-ms-win-crt-stdio-l1-1-0.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\api-ms-win-crt-string-l1-1-0.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\api-ms-win-crt-time-l1-1-0.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\api-ms-win-crt-utility-l1-1-0.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\clretwrc.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\clrjit.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\coreclr.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\createdump.exe
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\dbgshim.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\hostfxr.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\hostpolicy.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\mscordaccore.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\mscordaccore_x86_x86_6.0.1623.17311.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\mscordbi.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\mscorrc.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\msquic.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\ucrtbase.dll
+D:\QRvCard - Bulk\QRVCard\bin\Release\net6.0\win-x86\aspnetcorev2_inprocess.dll
+D:\QRvCard - Bulk\QRVCard\obj\Release\net6.0\win-x86\QRVCard.csproj.AssemblyReference.cache
+D:\QRvCard - Bulk\QRVCard\obj\Release\net6.0\win-x86\QRVCard.GeneratedMSBuildEditorConfig.editorconfig
+D:\QRvCard - Bulk\QRVCard\obj\Release\net6.0\win-x86\QRVCard.AssemblyInfoInputs.cache
+D:\QRvCard - Bulk\QRVCard\obj\Release\net6.0\win-x86\QRVCard.AssemblyInfo.cs
+D:\QRvCard - Bulk\QRVCard\obj\Release\net6.0\win-x86\QRVCard.csproj.CoreCompileInputs.cache
+D:\QRvCard - Bulk\QRVCard\obj\Release\net6.0\win-x86\QRVCard.MvcApplicationPartsAssemblyInfo.cache
+D:\QRvCard - Bulk\QRVCard\obj\Release\net6.0\win-x86\QRVCard.RazorAssemblyInfo.cache
+D:\QRvCard - Bulk\QRVCard\obj\Release\net6.0\win-x86\QRVCard.RazorAssemblyInfo.cs
+D:\QRvCard - Bulk\QRVCard\obj\Release\net6.0\win-x86\staticwebassets\msbuild.QRVCard.Microsoft.AspNetCore.StaticWebAssets.props
+D:\QRvCard - Bulk\QRVCard\obj\Release\net6.0\win-x86\staticwebassets\msbuild.build.QRVCard.props
+D:\QRvCard - Bulk\QRVCard\obj\Release\net6.0\win-x86\staticwebassets\msbuild.buildMultiTargeting.QRVCard.props
+D:\QRvCard - Bulk\QRVCard\obj\Release\net6.0\win-x86\staticwebassets\msbuild.buildTransitive.QRVCard.props
+D:\QRvCard - Bulk\QRVCard\obj\Release\net6.0\win-x86\staticwebassets.pack.json
+D:\QRvCard - Bulk\QRVCard\obj\Release\net6.0\win-x86\staticwebassets.build.json
+D:\QRvCard - Bulk\QRVCard\obj\Release\net6.0\win-x86\staticwebassets.development.json
+D:\QRvCard - Bulk\QRVCard\obj\Release\net6.0\win-x86\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\QRvCard - Bulk\QRVCard\obj\Release\net6.0\win-x86\scopedcss\bundle\QRVCard.styles.css
+D:\QRvCard - Bulk\QRVCard\obj\Release\net6.0\win-x86\scopedcss\projectbundle\QRVCard.bundle.scp.css
+D:\QRvCard - Bulk\QRVCard\obj\Release\net6.0\win-x86\QRVCard.csproj.CopyComplete
+D:\QRvCard - Bulk\QRVCard\obj\Release\net6.0\win-x86\QRVCard.dll
+D:\QRvCard - Bulk\QRVCard\obj\Release\net6.0\win-x86\refint\QRVCard.dll
+D:\QRvCard - Bulk\QRVCard\obj\Release\net6.0\win-x86\QRVCard.pdb
+D:\QRvCard - Bulk\QRVCard\obj\Release\net6.0\win-x86\QRVCard.genruntimeconfig.cache
+D:\QRvCard - Bulk\QRVCard\obj\Release\net6.0\win-x86\ref\QRVCard.dll

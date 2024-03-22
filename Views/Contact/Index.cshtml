@@ -1,0 +1,16 @@
+﻿@{
+    ViewData["Title"] = "Upload Excel";
+}
+
+<h1>Upload Excel</h1>
+
+<form method="post" enctype="multipart/form-data" asp-controller="Contact" asp-action="GenerateQrCodes">
+    <div class="form-group">
+        <label for="excelFile">Excel File: </label>
+        <input type="file" class="form-control-file" id="excelFile" name="excelFile">        
+    </div>
+    <br />
+    <button type="submit" class="btn btn-primary">Generate QR Codes</button>
+    <br />
+    @Html.ValidationSummary()
+</form>

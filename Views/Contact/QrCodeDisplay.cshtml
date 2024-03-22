@@ -1,0 +1,35 @@
+﻿@model IEnumerable<byte[]>
+@{
+    ViewData["Title"] = "QR Code Display";
+}
+
+<h1>Generated QR Codes</h1>
+
+@if (Model.Any())
+{
+    <table class="table table-responsive">
+        
+            @for (int i = 0; i < Model.Count(); i+=2)
+            {
+            <tr>
+                <td style="width:100px;text-align:center;vertical-align:middle;">@ViewBag.ContactNames[i]</td>
+                <td style="width:220px;"><img src="data:image/png;base64,@Convert.ToBase64String(Model.ElementAt(i))" style="width:200px;height:200px;" /></td>
+
+                @if (i + 1 < Model.Count())
+                {
+                    <td style="width:100px;text-align:center;vertical-align:middle;">@ViewBag.ContactNames[i + 1]</td>
+                    <td style="width:220px;"><img src="data:image/png;base64,@Convert.ToBase64String(Model.ElementAt(i + 1))" style="width:200px;height:200px;" /></td>
+                }
+                else
+                {
+                    <td colspan="2"></td> 
+                }
+            </tr>
+            }
+       
+    </table>
+}
+else
+{
+    <p>No contacts found or no QR codes generated.</p>
+}

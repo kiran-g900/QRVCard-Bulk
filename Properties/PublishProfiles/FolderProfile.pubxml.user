@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>D:\Publish\netcore\Bulk QRvCard</_PublishTargetUrl>
+    <History>True|2024-03-21T06:25:32.3347160Z;True|2023-11-03T14:50:56.8611672+05:30;True|2023-11-02T12:29:16.0329483+05:30;True|2023-11-02T12:18:48.6683185+05:30;True|2023-11-02T12:15:08.8861147+05:30;True|2023-11-02T10:39:51.0070320+05:30;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>

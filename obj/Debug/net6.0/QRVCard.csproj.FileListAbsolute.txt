@@ -1,0 +1,84 @@
+D:\QRVCard\QRVCard\bin\Debug\net6.0\appsettings.Development.json
+D:\QRVCard\QRVCard\bin\Debug\net6.0\appsettings.json
+D:\QRVCard\QRVCard\bin\Debug\net6.0\QRVCard.staticwebassets.runtime.json
+D:\QRVCard\QRVCard\bin\Debug\net6.0\QRVCard.exe
+D:\QRVCard\QRVCard\bin\Debug\net6.0\QRVCard.deps.json
+D:\QRVCard\QRVCard\bin\Debug\net6.0\QRVCard.runtimeconfig.json
+D:\QRVCard\QRVCard\bin\Debug\net6.0\QRVCard.dll
+D:\QRVCard\QRVCard\bin\Debug\net6.0\QRVCard.pdb
+D:\QRVCard\QRVCard\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\QRVCard\QRVCard\bin\Debug\net6.0\QRCoder.dll
+D:\QRVCard\QRVCard\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\QRVCard\QRVCard\bin\Debug\net6.0\zxing.dll
+D:\QRVCard\QRVCard\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\QRVCard\QRVCard\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\QRVCard\QRVCard\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\QRVCard\QRVCard\obj\Debug\net6.0\QRVCard.csproj.AssemblyReference.cache
+D:\QRVCard\QRVCard\obj\Debug\net6.0\QRVCard.GeneratedMSBuildEditorConfig.editorconfig
+D:\QRVCard\QRVCard\obj\Debug\net6.0\QRVCard.AssemblyInfoInputs.cache
+D:\QRVCard\QRVCard\obj\Debug\net6.0\QRVCard.AssemblyInfo.cs
+D:\QRVCard\QRVCard\obj\Debug\net6.0\QRVCard.csproj.CoreCompileInputs.cache
+D:\QRVCard\QRVCard\obj\Debug\net6.0\QRVCard.MvcApplicationPartsAssemblyInfo.cache
+D:\QRVCard\QRVCard\obj\Debug\net6.0\QRVCard.RazorAssemblyInfo.cache
+D:\QRVCard\QRVCard\obj\Debug\net6.0\QRVCard.RazorAssemblyInfo.cs
+D:\QRVCard\QRVCard\obj\Debug\net6.0\staticwebassets\msbuild.QRVCard.Microsoft.AspNetCore.StaticWebAssets.props
+D:\QRVCard\QRVCard\obj\Debug\net6.0\staticwebassets\msbuild.build.QRVCard.props
+D:\QRVCard\QRVCard\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.QRVCard.props
+D:\QRVCard\QRVCard\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.QRVCard.props
+D:\QRVCard\QRVCard\obj\Debug\net6.0\staticwebassets.pack.json
+D:\QRVCard\QRVCard\obj\Debug\net6.0\staticwebassets.build.json
+D:\QRVCard\QRVCard\obj\Debug\net6.0\staticwebassets.development.json
+D:\QRVCard\QRVCard\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\QRVCard\QRVCard\obj\Debug\net6.0\scopedcss\bundle\QRVCard.styles.css
+D:\QRVCard\QRVCard\obj\Debug\net6.0\scopedcss\projectbundle\QRVCard.bundle.scp.css
+D:\QRVCard\QRVCard\obj\Debug\net6.0\QRVCard.csproj.CopyComplete
+D:\QRVCard\QRVCard\obj\Debug\net6.0\QRVCard.dll
+D:\QRVCard\QRVCard\obj\Debug\net6.0\refint\QRVCard.dll
+D:\QRVCard\QRVCard\obj\Debug\net6.0\QRVCard.pdb
+D:\QRVCard\QRVCard\obj\Debug\net6.0\QRVCard.genruntimeconfig.cache
+D:\QRVCard\QRVCard\obj\Debug\net6.0\ref\QRVCard.dll
+D:\QRvCard - Bulk\QRVCard\bin\Debug\net6.0\appsettings.Development.json
+D:\QRvCard - Bulk\QRVCard\bin\Debug\net6.0\appsettings.json
+D:\QRvCard - Bulk\QRVCard\bin\Debug\net6.0\QRVCard.staticwebassets.runtime.json
+D:\QRvCard - Bulk\QRVCard\bin\Debug\net6.0\QRVCard.exe
+D:\QRvCard - Bulk\QRVCard\bin\Debug\net6.0\QRVCard.deps.json
+D:\QRvCard - Bulk\QRVCard\bin\Debug\net6.0\QRVCard.runtimeconfig.json
+D:\QRvCard - Bulk\QRVCard\bin\Debug\net6.0\QRVCard.dll
+D:\QRvCard - Bulk\QRVCard\bin\Debug\net6.0\QRVCard.pdb
+D:\QRvCard - Bulk\QRVCard\bin\Debug\net6.0\EPPlus.dll
+D:\QRvCard - Bulk\QRVCard\bin\Debug\net6.0\EPPlus.Interfaces.dll
+D:\QRvCard - Bulk\QRVCard\bin\Debug\net6.0\EPPlus.System.Drawing.dll
+D:\QRvCard - Bulk\QRVCard\bin\Debug\net6.0\Microsoft.IO.RecyclableMemoryStream.dll
+D:\QRvCard - Bulk\QRVCard\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\QRvCard - Bulk\QRVCard\bin\Debug\net6.0\QRCoder.dll
+D:\QRvCard - Bulk\QRVCard\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\QRvCard - Bulk\QRVCard\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+D:\QRvCard - Bulk\QRVCard\bin\Debug\net6.0\zxing.dll
+D:\QRvCard - Bulk\QRVCard\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\QRvCard - Bulk\QRVCard\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\QRvCard - Bulk\QRVCard\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\QRvCard - Bulk\QRVCard\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+D:\QRvCard - Bulk\QRVCard\obj\Debug\net6.0\QRVCard.csproj.AssemblyReference.cache
+D:\QRvCard - Bulk\QRVCard\obj\Debug\net6.0\QRVCard.GeneratedMSBuildEditorConfig.editorconfig
+D:\QRvCard - Bulk\QRVCard\obj\Debug\net6.0\QRVCard.AssemblyInfoInputs.cache
+D:\QRvCard - Bulk\QRVCard\obj\Debug\net6.0\QRVCard.AssemblyInfo.cs
+D:\QRvCard - Bulk\QRVCard\obj\Debug\net6.0\QRVCard.csproj.CoreCompileInputs.cache
+D:\QRvCard - Bulk\QRVCard\obj\Debug\net6.0\QRVCard.MvcApplicationPartsAssemblyInfo.cache
+D:\QRvCard - Bulk\QRVCard\obj\Debug\net6.0\QRVCard.RazorAssemblyInfo.cache
+D:\QRvCard - Bulk\QRVCard\obj\Debug\net6.0\QRVCard.RazorAssemblyInfo.cs
+D:\QRvCard - Bulk\QRVCard\obj\Debug\net6.0\staticwebassets\msbuild.QRVCard.Microsoft.AspNetCore.StaticWebAssets.props
+D:\QRvCard - Bulk\QRVCard\obj\Debug\net6.0\staticwebassets\msbuild.build.QRVCard.props
+D:\QRvCard - Bulk\QRVCard\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.QRVCard.props
+D:\QRvCard - Bulk\QRVCard\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.QRVCard.props
+D:\QRvCard - Bulk\QRVCard\obj\Debug\net6.0\staticwebassets.pack.json
+D:\QRvCard - Bulk\QRVCard\obj\Debug\net6.0\staticwebassets.build.json
+D:\QRvCard - Bulk\QRVCard\obj\Debug\net6.0\staticwebassets.development.json
+D:\QRvCard - Bulk\QRVCard\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\QRvCard - Bulk\QRVCard\obj\Debug\net6.0\scopedcss\bundle\QRVCard.styles.css
+D:\QRvCard - Bulk\QRVCard\obj\Debug\net6.0\scopedcss\projectbundle\QRVCard.bundle.scp.css
+D:\QRvCard - Bulk\QRVCard\obj\Debug\net6.0\QRVCard.csproj.CopyComplete
+D:\QRvCard - Bulk\QRVCard\obj\Debug\net6.0\QRVCard.dll
+D:\QRvCard - Bulk\QRVCard\obj\Debug\net6.0\refint\QRVCard.dll
+D:\QRvCard - Bulk\QRVCard\obj\Debug\net6.0\QRVCard.pdb
+D:\QRvCard - Bulk\QRVCard\obj\Debug\net6.0\QRVCard.genruntimeconfig.cache
+D:\QRvCard - Bulk\QRVCard\obj\Debug\net6.0\ref\QRVCard.dll
